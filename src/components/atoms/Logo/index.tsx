@@ -8,7 +8,7 @@ const StyledLink = styled(Link)`
 `
 
 const Wrapper = styled.div`
-  width: 7.0625rem;
+  width: 9.0625rem;
   svg {
     width: 100%;
     height: auto;
