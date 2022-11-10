@@ -251,22 +251,21 @@
       "gallery": "./assets/arnolfini-portrait/gallery.jpg"
     }
   },
-  {
-    "name": "The Basket of Apples",
-    "year": 1893,
-    "description": "The Basket of Apples (French: Le panier de pommes) is a still life oil painting by French artist Paul Cézanne, which he created c. 1893. The painting is particularly remarkable for its creative composition, which rejected realistic representation in favour of distorting objects to create multiple perspectives. This approach eventually influenced other art movements, including Fauvism and Cubism. It belongs to the Helen Birch Bartlett Memorial Collection of the Art Institute of Chicago.",
+ {
+    "name": "UVC Mobile Robot / AUMR",
+    "year": 2022,
+    "description": "UVC Mobile Robot for disinfection & Sterilization of isolation room for COVID-19 Positive Patiens. From the lab test results, it can be seen that UVC is able to reduce the number of bacteria in the colony, the test time is carried out for 10-15 minutes.",
     "source": "https://en.wikipedia.org/wiki/The_Basket_of_Apples",
     "artist": {
-      "image": "./assets/the-basket-of-apples/artist.jpg",
-      "name": "Paul Cézanne"
+      "image": "./assets/inovasi/1.jpg",
+      "name": "AUMR"
     },
     "images": {
-      "thumbnail": "./assets/the-basket-of-apples/thumbnail.jpg",
+      "thumbnail": "./assets/inovasi/1.jpg",
       "hero": {
-        "small": "./assets/the-basket-of-apples/hero-small.jpg",
-        "large": "./assets/the-basket-of-apples/hero-large.jpg"
+        "small": "./assets/inovasi/1.jpg",
+        "large": "./assets/inovasi/1.jpg"
       },
-      "gallery": "./assets/the-basket-of-apples/gallery.jpg"
+      "gallery": "./assets/inovasi/1.jpg"
     }
-  }
-]
+  }]
