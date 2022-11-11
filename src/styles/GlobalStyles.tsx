@@ -52,6 +52,7 @@ export const GlobalStyles = createGlobalStyle`
   /* Make images easier to work with */
   img,
   picture {
+    max-width: 100%;
     display: block;
   }
 
