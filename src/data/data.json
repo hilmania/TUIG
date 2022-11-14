@@ -3,10 +3,10 @@
     "name": "Hai Mentor",
     "year": 2022,
     "description": "Hai Mentor hadir dalam membantu siapapun khususnya pelajar dan mahasiswa di Indonesia dalam menyelesaikan permasalahan belajar atau menambah skill baru mereka dengan bertanya kepada mentor ahlinya sesuai dengan bidang minat.",
-    "source": "https://en.wikipedia.org/wiki/Arnolfini_Portrait",
+    "source": "https://haimentor.com",
     "artist": {
       "image": "./assets/arnolfini-portrait/artist.jpg",
-      "name": "haimentor.com"
+      "name": "Hai Mentor"
     },
     "images": {
       "thumbnail": "./assets/startup/haimentor/thumbnail.png",
@@ -21,10 +21,10 @@
     "name": "Marga",
     "year": 2022,
     "description": "Game edukasi yang mengkombinasikan antara software dan hardware untuk memaksimalkan pemahaman anak usia dini dalam mengenal hewan. Game ini dilengkapi dengan kotak ajaib dan juga boneka hewan yang lucu untuk menerapkan Tangible Interaction dan Metode Pembelajaran Montessori melalui teknologi RFID.",
-    "source": "https://en.wikipedia.org/wiki/Arnolfini_Portrait",
+    "source": "#",
     "artist": {
       "image": "./assets/arnolfini-portrait/artist.jpg",
-      "name": "haimentor.com"
+      "name": "Creducent"
     },
     "images": {
       "thumbnail": "./assets/startup/marga/thumbnail.png",
@@ -33,6 +33,42 @@
         "large": "./assets/startup/marga/hero-large.png"
       },
       "gallery": "../assets/startup/marga/gallery.png"
+    }
+  },
+  {
+    "name": "Natural Me",
+    "year": 2022,
+    "description": "Natural Me merupakan Start-Up yang hadir untuk mengatasi permasalahan kulit wajah terkhusus bagi customer yang bingung memilih produk skincare dan makeup yang tepat sesuai dengan kondisi kulit. Natural Me menyediakan platform layanan konsultasi kecantikan dengan para experts serta menyediakan produk sesuai kebutuhan Anda.",
+    "source": "https://natural-me.shop",
+    "artist": {
+      "image": "./assets/arnolfini-portrait/artist.jpg",
+      "name": "Creducent"
+    },
+    "images": {
+      "thumbnail": "./assets/startup/naturalme/thumbnail.png",
+      "hero": {
+        "small": "./assets/startup/naturalme/hero-small.png",
+        "large": "./assets/startup/naturalme/hero-large.png"
+      },
+      "gallery": "../assets/startup/naturalme/gallery.png"
+    }
+  },
+  {
+    "name": "Niuva",
+    "year": 2022,
+    "description": "Niuva Portable Handwash Station adalah sebuah produk wastafel 3 in 1 (keran air, dispenser sabun, hand dryer) otomatis dengan Infrared Sensor. Produk handwash station ini dikembangkan untuk mendukung protokol kesehatan yang diterapkan di berbagai tempat umum, ditengah maraknya penyebaran virus COVID-19. Penggunaan sensor dapat mengurangi presentase sentuhan tangan yang terjadi pada produk handwash station",
+    "source": "#",
+    "artist": {
+      "image": "./assets/arnolfini-portrait/artist.jpg",
+      "name": "Niuva"
+    },
+    "images": {
+      "thumbnail": "./assets/startup/niuva/thumbnail.png",
+      "hero": {
+        "small": "./assets/startup/niuva/hero-small.png",
+        "large": "./assets/startup/niuva/hero-large.png"
+      },
+      "gallery": "../assets/startup/niuva/gallery.png"
     }
   }
 ]
