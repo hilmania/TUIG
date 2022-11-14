@@ -88,5 +88,23 @@
       },
       "gallery": "../assets/startup/pemiluelektronik/gallery.png"
     }
+  },
+  {
+    "name": "Sayuur",
+    "year": 2022,
+    "description": "Mitra Sayuur adalah pedagang yang dapat menggunakan aplikasi Sayuur untuk berjualan secara Hybrid (online dan offline). Kenapa bermitra dengan Sayuur? Transaksi lebih mudah dan tersimpan secara digital; Customer bisa memesan H-1 sebelum pengadaan; Stok barang dagangan update otomatis; Laporan keuangan otomatis; Menghindari barang dagangan sayur yang tidak habis terjual.",
+    "source": "https://www.sayuur.com",
+    "artist": {
+      "image": "./assets/arnolfini-portrait/artist.jpg",
+      "name": "Sayuur"
+    },
+    "images": {
+      "thumbnail": "./assets/startup/sayuur/thumbnail.png",
+      "hero": {
+        "small": "./assets/startup/sayuur/hero-small.png",
+        "large": "./assets/startup/sayuur/hero-large.png"
+      },
+      "gallery": "../assets/startup/sayuur/gallery.png"
+    }
   }
 ]
