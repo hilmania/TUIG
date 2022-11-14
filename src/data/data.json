@@ -70,5 +70,23 @@
       },
       "gallery": "../assets/startup/niuva/gallery.png"
     }
+  },
+  {
+    "name": "Pemilu Elektronik",
+    "year": 2022,
+    "description": "Electronic Voting atau e-Voting adalah proses pemungutan suara dan perhitungan suara yang menggunakan perangkat elektronik atau teknologi informasi. Dengan adanya e-Voting mendorong teknologi dalam negeri untuk lebih berperan aktif mengatasi masalah - masalah di Indonesia, sehingga salah satu masalah di Indonesia yaitu sistem demokrasi bisa berubah menjadi lebih baik lagi",
+    "source": "#",
+    "artist": {
+      "image": "./assets/arnolfini-portrait/artist.jpg",
+      "name": "PT INTI Konten Indonesia"
+    },
+    "images": {
+      "thumbnail": "./assets/startup/pemiluelektronik/thumbnail.png",
+      "hero": {
+        "small": "./assets/startup/pemiluelektronik/hero-small.png",
+        "large": "./assets/startup/pemiluelektronik/hero-large.png"
+      },
+      "gallery": "../assets/startup/pemiluelektronik/gallery.png"
+    }
   }
 ]
